@@ -14,8 +14,8 @@ HTML
 
 # Hosting URL :
 
-https://mishra-talk-valyerian.netlify.app
+https://mishra-talk-valyrian.netlify.app/
 
 # Screenshot
 
-<img width="1438" alt="Screenshot 2023-01-04 at 7 49 20 PM" src="https://user-images.githubusercontent.com/39798790/210575923-9c8a5ad4-b715-4432-82b4-5dd9e08e7b78.png">
+<img width="1438" alt="Screenshot 2023-01-04 at 9 03 38 PM" src="https://user-images.githubusercontent.com/39798790/210591273-06b835f5-eea4-4ab3-a758-d6fb34538d71.png">
